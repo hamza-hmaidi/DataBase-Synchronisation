@@ -6,3 +6,5 @@ Add RabbitMQ librairy to classspath
 
 Add mysql-connector-java-8.0.24.jar
 
+# Execution 
+Run HOGUI and BOGUI 
